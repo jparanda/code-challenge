@@ -1,1 +1,1 @@
-This project have code challenges that I had been resolved to practice algorithms
+This project have code challenges that I have been resolved to practice algorithms
